@@ -57,14 +57,14 @@ $(document).ready(function() {
 
 	//Reset timer for correct answer
 
-	/*if ($("#batman").attr("checked", true) === true){
+	if ($("#batman").attr("checked", true) === firstQuest	){
 		clearTimeout(number);
 		alert("Correct! Your Timer has Reset!");
 		run();
 
 	}else{
 		//alert("Please Try again");
-	}*/
+	}
 
 
 	//Execute Run Function
