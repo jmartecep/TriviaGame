@@ -1,0 +1,30 @@
+.backColor{
+	background-color: #ffff66;
+	border-radius: 10px;
+}
+body{
+	background-image: url("http://clipartix.com/wp-content/uploads/2016/08/Confetti-transparent-clip-art-image.png")
+}
+
+body h1{
+	color: #0000ff;
+	font-size: 70px;
+	font-weight: bold;
+
+}
+
+body h2{
+	color: #00004d;
+}
+#timer{
+	color: red;
+}
+#fistQ{
+
+}
+#secondQ{
+
+}
+#thirdQ{
+	
+}
